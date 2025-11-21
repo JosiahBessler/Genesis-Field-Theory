@@ -18,7 +18,7 @@ GenFT is an exploration of:
 - oscillatory features in the matter power spectrum P(k)  
 - dark-field time-dilation effects  
 - gravitational-wave echo phenomenology  
-- rotation-curve predictions across the SPARC dataset  
+- rotation-curve modeling and comparisons across the SPARC dataset using AI-generated fitting tools
 - halo-based life-detection heuristics  
 
 **This is not a validated physical theory**, but a **conceptual experiment in using AI to formalize a new cosmological framework**.
