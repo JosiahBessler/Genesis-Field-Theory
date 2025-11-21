@@ -53,20 +53,6 @@ All content has been reviewed, curated, and shaped by me, but not rigorously ver
 
 ---
 
-## 🔷 What This Repository Contains
-
-- `/theory/` — AI-generated formal GenFT framework, math, and spectral architecture  
-- `/experiments/` — rotation-curve tests (GenFT vs NFW vs Burkert, etc.)  
-- `/life-detection/` — halo-based habitability scoring experiments  
-- `/data/` — SPARC results, halo fits, CSVs, and plots  
-- `/scripts/` — code used in the computational experiments  
-- `/docs/` — PDFs of the AI-formalized documents  
-- `/notes/` — human-written conceptual sketches, design notes, goals  
-
-*(If you'd like, I can generate the folder structure for you.)*
-
----
-
 ## 🔷 Disclaimer
 This project is a **speculative, exploratory exercise** in theoretical cosmology and AI-assisted scientific writing.  
 Nothing here should be assumed to be:
