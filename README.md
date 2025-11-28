@@ -88,3 +88,8 @@ If you use this material, please cite the repository and credit this project.
 ## 🔷 Notes:
 
 Files are currently being cleaned up from the testing environment prior to publication. 
+
+## 🔷 Contact:
+
+Questions, comments, or concerns? Please email GenesisFieldTheory@outlook.com
+
