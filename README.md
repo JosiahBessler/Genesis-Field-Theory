@@ -19,7 +19,6 @@ GenFT is an exploration of:
 - dark-field time-dilation effects  
 - gravitational-wave echo phenomenology  
 - rotation-curve predictions across the SPARC dataset 
-- halo-based life-detection heuristics  
 
 **This is not a validated physical theory**, but a **conceptual experiment in using AI to help formalize a new cosmological framework**.
 
