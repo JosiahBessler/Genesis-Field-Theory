@@ -168,7 +168,7 @@ The universe evolves toward new stable patterns.
 Unstable wave modes fade.
 Stable modes survive to become matter, fields, and cosmic structure.
 
-In this framework, dark matter is interpreted as one of the stable attractor modes.
+In this framework, dark matter is interpreted as one of the stable modes.
 
 
 
