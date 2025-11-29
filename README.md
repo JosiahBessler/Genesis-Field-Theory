@@ -33,7 +33,6 @@ I contributed:
 - the **framework** for GenFT’s operator, kernel, and sector decomposition  
 - the **halo model design**, including cored-template behavior  
 - the **rotation-curve test design** (DM-only, DM+baryons, extreme DM, etc.)  
-- the **life-detection scoring concept** based on halo stability  
 - the **rotation-curve modeling and comparisons** across the SPARC dataset using AI-generated fitting tools
 - the **curation, organization, and integration** of all documents
 
