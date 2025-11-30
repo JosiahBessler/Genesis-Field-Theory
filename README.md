@@ -55,7 +55,7 @@ All content has been reviewed, curated, and shaped by me, but not rigorously ver
 
 ---
 
-## 🔷 Disclaimer
+## ⚠️ Disclaimer
 
 This project is a **speculative, exploratory exercise** in theoretical cosmology and AI-assisted scientific writing.  
 Nothing here should be assumed to be:
