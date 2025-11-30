@@ -155,6 +155,26 @@ slope and curvature tests
 (optional) lensing α(R) — experimental
 
 ________________________________________
+
+🧪 Replication Instructions
+
+Install Python + dependencies: pip install numpy pandas scipy lmfit matplotlib astropy tqdm
+
+
+Run:
+
+python fit_all_multiDM.py
+
+
+Inspect:
+
+Output/Tables/MultiDM_all.csv
+
+
+All files required for replication are provided.
+
+________________________________________
+
 The main test script is:
 
 python fit_all_multiDM.py
@@ -188,23 +208,6 @@ If it performs poorly compared to NFW, Burkert, or Einasto, that is acceptable a
 This is a test, not a claim.
 ________________________________________
 
-🧪 Replication Instructions
-
-Install Python + dependencies
-
-Run:
-
-python fit_all_multiDM.py
-
-
-Inspect:
-
-Output/Tables/MultiDM_all.csv
-
-
-All files required for replication are provided.
-
-________________________________________
 
 🧠 Final Summary
 
