@@ -61,7 +61,8 @@ This project is a **speculative, exploratory exercise** in theoretical cosmology
 Nothing here should be assumed to be:
 
 - experimentally confirmed  
-- mathematically validated  
+- mathematically validated
+- scientifically correct
 - a replacement for standard cosmological models  
 
 GenFT is presented as an **open-ended conceptual framework** rather than an established scientific theory.
