@@ -15,7 +15,7 @@ Human conceptual development (all core ideas, motivation, and direction)
 
 AI-assisted formalization (mathematical exposition, derivations, documentation)
 
-Theory-based derivations (no known empirical tuning — to the best of my knowledge, the UCP used in the SPARC rotation-curve tests contains no empirical tuning to observational data)
+Theory-based derivations (no known empirical tuning — To the best of my knowledge, the UCP profile used here was not tuned using SPARC rotation-curve data. During development, I explored several lensing-motivated band-mix simulations to understand what spectral-band combinations could plausibly produce realistic dark-field lensing behavior. These exploratory checks were theoretical and did not involve any SPARC galaxy data. Once the CSV profile was fixed, it was applied uniformly across all galaxies, with only amplitude and scale radius fitted per galaxy.)
 
 Independent numerical testing (rotation-curve fitting and model comparison)
 
