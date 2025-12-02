@@ -126,7 +126,7 @@ Baryonic contribution (disk + bulge) is computed.
 
 Each dark-matter profile is fitted:
 
-GenesisFT UCP (theory-derived)
+GenFT UCP (theory-derived) (changed to GenesisFT)
 
 Burkert
 
