@@ -89,7 +89,7 @@ If you use this material, please cite the repository and credit this project.
 
 ## 🔷 Notes:
 
-Files are currently being cleaned up from the testing environment prior to publication. 
+In the process of rebranding due to existing uses of the acronym GenFT. Converting to GenesisFT.
 This theoretical framework is still in development.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
