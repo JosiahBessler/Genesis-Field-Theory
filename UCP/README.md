@@ -1,5 +1,5 @@
 📘 Genesis Field Theory (GenesisFT) – Preliminary Research Notes
-________________________________________
+--------------------------------------------------------------------------------------------------------------------------------------------
 ⚠️ This repository contains exploratory, unverified, non-peer-reviewed research.
 Nothing here should be interpreted as established scientific fact.
 
@@ -8,7 +8,7 @@ This project presents a theory-derived dark-matter halo shape — the Universal 
 The purpose of releasing this material is to invite criticism, correction, and independent verification, not to assert correctness.
 ________________________________________
 ⚠️ Scientific Disclaimer (Please Read)
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 This repository contains research developed through a combination of:
 
 Human conceptual development (all core ideas, motivation, and direction)
