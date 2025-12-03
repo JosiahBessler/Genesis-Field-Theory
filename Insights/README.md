@@ -1,5 +1,5 @@
 ⚠️ Insights Folder Disclaimer
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Important: Theoretical, Unverified, and Exploratory Content Only
 
@@ -9,6 +9,7 @@ Many of these writings were written or refined with AI assistance. Their purpose
 
 They should not be interpreted as evidence, established theory, or scientifically accurate descriptions of nature.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔸 What These Documents Are
 
@@ -30,6 +31,7 @@ Thought experiments meant to inspire discussion
 
 These writings aim to offer new angles of thinking, interpretive insights, or illustrative explanations, not authoritative conclusions.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔸 What These Documents Are Not
 
@@ -47,6 +49,7 @@ Peer-reviewed or validated, and therefore should not be treated as authoritative
 
 Nothing here has undergone scientific validation.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔸 Important Notes
 
@@ -60,6 +63,7 @@ AI assistance means terminology or analogies may require refinement or correctio
 
 These writings are published for transparency, discussion, and philosophical exploration only.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔸 Purpose of Publishing These Insights
 
@@ -71,6 +75,7 @@ To provide intuitive or philosophical perspectives on deep “why” questions i
 
 To maintain an open record of speculative, early-stage theoretical exploration
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔸 Summary Statement
 
