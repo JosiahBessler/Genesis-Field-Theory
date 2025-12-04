@@ -1,6 +1,6 @@
 **⚠️ Insights Folder Disclaimer**
 -------------------------------
-Important: Theoretical, Unverified, and Exploratory Content Only
+**Important:** Theoretical, Unverified, and Exploratory Content Only
 
 The documents contained in the Insights folder are conceptual explorations, hypotheses, and speculative interpretations inspired by the stability-based framework of Genesis Field Theory (GenesisFT).
 
