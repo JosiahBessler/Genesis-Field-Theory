@@ -202,9 +202,10 @@ This ensures consistency across all contributions.
 
 To ensure consistent reference material, contributors may:
 
-**✔ Upload the full**
+**✔ Upload the core GenesisFT documents**
 
 *Genesis Field Theory Overview.docx*  
+*Genesis Field Theory - Working Model.docx*  
 (from the root of the repo)
 
 directly into the AI before asking questions or generating tests.
@@ -214,13 +215,14 @@ This gives the AI:
 - the correct definitions  
 - accurate assumptions  
 - the full conceptual structure  
+- the current working mathematical picture  
 - consistent terminology  
 
-AI will produce much higher-quality results when this document is included.
+AI will produce much higher-quality results when these documents are included.
 
 **Recommended Workflow**
 
-**STEP 1 — Load the Overview document into AI**  
+**STEP 1 — Load the Overview and/or Working Model document into AI**  
 This establishes the foundation.
 
 **STEP 2 — Have AI identify unclear areas**  
@@ -277,8 +279,10 @@ The project will evolve through collective iteration.
 **🔷 Getting Started**
 -------------------------
 
-- Read the Overview document  
-- Upload the Overview into AI (optional but recommended)  
+- Read the Overview and/or Working Model document in the repo root:  
+  - *Genesis Field Theory Overview.docx*  
+  - *Genesis Field Theory - Working Model.docx*  
+- Upload one or both into AI (optional but recommended)  
 - Identify *unclear* or *incomplete* sections  
 - Use AI to refine or analyze them  
 - Run optional tests  
