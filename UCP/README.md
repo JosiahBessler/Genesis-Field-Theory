@@ -48,13 +48,10 @@ This project is released publicly for four reasons:
 
 If errors exist in:
 
-the K-operator formulation
-
-the stability equation
-
-the numerical implementation
-
-the rotation-curve pipeline
+the K-operator formulation  
+the stability equation  
+the numerical implementation  
+the rotation-curve pipeline  
 
 …then releasing the full code enables others to identify and correct them.
 
@@ -77,41 +74,33 @@ ________________________________________
 The UCP in this repository is not empirically tuned.
 It is derived from theory as follows:
 
-Propose a K-operator
+Propose a K-operator  
 Based on GenesisFT stability principles, representing how modes evolve.
 
-Solve the stability equation
-
-Modes satisfying
+Solve the stability equation  
 
 K φ = λ φ
 
+with  
 
-with
-
-positive λ = unstable → decay
-
+positive λ = unstable → decay  
 λ = 0 = stable (“surviving modes”)
 
-Extract the radial equilibrium solution
-
+Extract the radial equilibrium solution  
 The dark field’s lowest-energy stable configuration.
 
-Generate a halo density profile numerically
-
+Generate a halo density profile numerically  
 This produces the “band-derived” CSV halo shape included here.
 
-Use that shape directly
+Use that shape directly  
 
-No galaxy data is used in the K-operator solution.
-
-No parameters are tuned per galaxy.
+No galaxy data is used in the K-operator solution.  
+No parameters are tuned per galaxy.  
 
 Only two free parameters vary across galaxies:
 
-amplitude A
-
-scale radius s
+amplitude A  
+scale radius s  
 
 Thus the GenesisFT UCP is purely theory-derived and globally fixed.
 ________________________________________
@@ -126,111 +115,84 @@ Baryonic contribution (disk + bulge) is computed.
 
 Each dark-matter profile is fitted:
 
-GenFT UCP (theory-derived) (changed to GenesisFT)
-
-Burkert
-
-NFW
-
-Einasto
-
-DC14
-
-Pseudo-Isothermal
-
+GenesisFT UCP (theory-derived)  
+Burkert  
+NFW  
+Einasto  
+DC14  
+Pseudo-Isothermal  
 Stable-Attractor (SIDM)
 
 For each model we compute:
 
-reduced χ²
-
-AIC / BIC
-
-RAR residuals
-
-slope and curvature tests
-
-ΔV scatter
-
+reduced χ²  
+AIC / BIC  
+RAR residuals  
+slope and curvature tests  
+ΔV scatter  
 (optional) lensing α(R) — experimental
-
 ________________________________________
 
 🧪 Replication Instructions
 
-Install Python + dependencies: pip install numpy pandas scipy lmfit matplotlib astropy tqdm
+Install Python + dependencies:  
+pip install numpy pandas scipy lmfit matplotlib astropy tqdm
 
-
-Run:
-
+Run:  
 python fit_all_multiDM.py
 
-
-Inspect:
-
+Inspect:  
 Output/Tables/MultiDM_all.csv
-
 
 All files required for replication are provided.
-
 ________________________________________
 
-The main test script is:
-
+The main test script is:  
 python fit_all_multiDM.py
 
-
-Results appear in:
-
+Results appear in:  
 Output/Tables/MultiDM_all.csv
 
-
-Plots appear in:
-
+Plots appear in:  
 Output/Plots/
-
 ________________________________________
 
 ⚠️ Key Transparency Points:
 
-✔ The UCP used here is the original theory-derived CSV, not an analytic approximation
-
+✔ The UCP used here is the original theory-derived CSV, not an analytic approximation  
 (The analytic version is still being developed and must perfectly match the CSV to be used.)
 
-✔ Re-running the script produces identical results
-
+✔ Re-running the script produces identical results  
 No hidden parameters or galaxy-specific tuning exist.
 
-✔ The GenesisFT UCP is not designed to win
-
+✔ The GenesisFT UCP is not designed to win  
 If it performs poorly compared to NFW, Burkert, or Einasto, that is acceptable and expected.
 
 This is a test, not a claim.
 ________________________________________
 
-
 🧠 Final Summary
 
 This project presents:
 
-✔ a purely theory-derived universal halo profile
-
-✔ a complete open-source testing pipeline
-
-✔ transparent disclaimers and documentation
-
+✔ a purely theory-derived universal halo profile  
+✔ a complete open-source testing pipeline  
+✔ transparent disclaimers and documentation  
 ✔ an invitation for expert review, critique, and correction
 
 The UCP is:
 
-derivable
-
-reproducible
-
-testable
-
+derivable  
+reproducible  
+testable  
 not yet validated
 
 The goal is not to assert correctness, but to enable open scientific analysis.
 
-SPARC data can be found here: https://astroweb.cwru.edu/SPARC/
+📚 **SPARC Dataset & Pipeline Acknowledgment**
+
+This project uses the publicly available **SPARC rotation-curve dataset** (Lelli, McGaugh & Schombert 2016).  
+Elements of the rotation-curve fitting pipeline were adapted from the analysis scripts provided on the SPARC website.  
+All modifications, extensions, and interpretations are my own.
+
+Please cite SPARC if using these data in scientific work. Website: https://astroweb.cwru.edu/SPARC/
