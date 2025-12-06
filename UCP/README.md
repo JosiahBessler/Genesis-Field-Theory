@@ -189,10 +189,11 @@ not yet validated
 
 The goal is not to assert correctness, but to enable open scientific analysis.
 
-📚 **SPARC Dataset & Pipeline Acknowledgment**
+📚 SPARC Dataset & Pipeline Acknowledgment
 
-This project uses the publicly available **SPARC rotation-curve dataset** (Lelli, McGaugh & Schombert 2016).  
-Elements of the rotation-curve fitting pipeline were adapted from the analysis scripts provided on the SPARC website.  
+This project uses the publicly available SPARC rotation-curve dataset (Lelli, McGaugh & Schombert 2016).
+Elements of the rotation-curve fitting pipeline were adapted from the analysis scripts provided on the SPARC website.
 All modifications, extensions, and interpretations are my own.
 
-Please cite SPARC if using these data in scientific work. Website: https://astroweb.cwru.edu/SPARC/
+Please cite SPARC if using these data in scientific work.
+Website: https://astroweb.cwru.edu/SPARC/
