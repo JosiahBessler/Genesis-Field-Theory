@@ -195,5 +195,5 @@ This project uses the publicly available SPARC rotation-curve dataset (Lelli, Mc
 Elements of the rotation-curve fitting pipeline were adapted from the analysis scripts provided on the SPARC website.
 All modifications, extensions, and interpretations are my own.
 
-Please cite SPARC if using these data in scientific work.
+Please cite SPARC if using this data in scientific work.
 Website: https://astroweb.cwru.edu/SPARC/
