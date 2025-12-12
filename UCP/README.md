@@ -189,6 +189,19 @@ This project exists **for open scientific analysis**, not advocacy of correctnes
 
 ---
 
+## 📖 How to Cite
+
+If you use the Universal Cored Profile (UCP), the accompanying theory paper, or results derived from this repository, please cite the Zenodo preprint:
+
+**Bessler, J. (2025).**  
+*The Universal Cored Profile (UCP): Theory, Derivation, and Validation.*  
+Zenodo.  
+https://doi.org/10.5281/zenodo.17904509
+
+If you also make use of the code or pipeline in this repository, please additionally cite the repository itself.
+
+---
+
 ## 📚 SPARC Dataset & Pipeline Acknowledgment
 
 This project uses the publicly available **SPARC rotation-curve dataset**:
@@ -201,3 +214,4 @@ All modifications, extensions, and interpretations are my own.
 
 SPARC website:  
 https://astroweb.cwru.edu/SPARC/
+
