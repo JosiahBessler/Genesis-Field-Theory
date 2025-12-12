@@ -191,14 +191,30 @@ This project exists **for open scientific analysis**, not advocacy of correctnes
 
 ## 📖 How to Cite
 
-If you use the Universal Cored Profile (UCP), the accompanying theory paper, or results derived from this repository, please cite the Zenodo preprint:
+If you use the **Universal Cored Profile (UCP) theory**, derivation, or scientific results, please cite the Zenodo preprint:
 
 **Bessler, J. (2025).**  
 *The Universal Cored Profile (UCP): Theory, Derivation, and Validation.*  
 Zenodo.  
 https://doi.org/10.5281/zenodo.17904509
 
-If you also make use of the code or pipeline in this repository, please additionally cite the repository itself.
+If you use or reproduce the **rotation-curve fitting pipeline, code, or CSV halo template**, please also cite the software archive:
+
+**Bessler, J. (2025).**  
+*Genesis Field Theory (GenesisFT): UCP Reproducible Pipeline.*  
+Zenodo.  
+https://doi.org/10.5281/zenodo.17914774
+
+---
+
+## ℹ️ Note on Earlier GenesisFT Records
+
+An earlier Zenodo record was released to establish naming, priority, and conceptual background for Genesis Field Theory:
+
+https://zenodo.org/records/17821688
+
+That record serves as a **conceptual overview and prior public disclosure**.  
+The present repository and associated Zenodo records provide the **formal UCP theory paper and fully reproducible software pipeline**, and should be cited for all scientific or technical use.
 
 ---
 
