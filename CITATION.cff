@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Genesis Field Theory (GenesisFT): Universal Cored Profile Pipeline"
+message: "If you use this software, please cite both the software and the associated theory paper."
+authors:
+  - family-names: Bessler
+    given-names: Josiah
+version: 1.0.0
+date-released: 2025-12-12
+doi: 10.5281/zenodo.17914774
+repository-code: https://github.com/JosiahBessler/Genesis-Field-Theory
+related-identifiers:
+  - identifier: https://doi.org/10.5281/zenodo.17904509
+    type: doi
+    relation: isSupplementedBy
+    resource-type: publication
+license: CC-BY-4.0
