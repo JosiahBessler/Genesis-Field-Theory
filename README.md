@@ -13,7 +13,11 @@ The complete theoretical derivation and validation of the **Universal Cored Prof
 
 👉 **[UCP Theory Paper (PDF)](UCP/UCP_Theory_Paper.pdf)**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17904509.svg)](https://doi.org/10.5281/zenodo.17904509)
+
 This document is the primary scientific reference for the UCP portion of this repository and is intended for transparency, reproducibility, and open review.
+
+
 
 ---
 
