@@ -13,13 +13,10 @@ The complete theoretical derivation and validation of the **Universal Cored Prof
 
 👉 **[UCP Theory Paper (PDF)](UCP/UCP_Theory_Paper.pdf)**
 
-[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17904509.svg)](https://doi.org/10.5281/zenodo.17904509)
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17904509.svg)](https://doi.org/10.5281/zenodo.17904509)  
 [![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17914774.svg)](https://doi.org/10.5281/zenodo.17914774)
 
-
-This document is the primary scientific reference for the UCP portion of this repository and is intended for transparency, reproducibility, and open review.
-
-
+This document is the **primary scientific reference** for the UCP portion of this repository and is intended for **transparency, reproducibility, and open review**.
 
 ---
 
@@ -34,7 +31,9 @@ GenesisFT is an exploration of:
 - oscillatory features in the matter power spectrum P(k)  
 - dark-field time-dilation effects  
 - gravitational-wave echo phenomenology  
-- rotation-curve predictions across the SPARC dataset 
+- rotation-curve predictions across the SPARC dataset  
+
+These items represent **areas of exploration and hypothesis generation**, not established results.
 
 **This is not a validated physical theory**, but a **conceptual experiment in using AI to help formalize a new cosmological framework**.
 
@@ -107,14 +106,19 @@ If you use this material, please cite the repository and credit this project.
 
 ---
 
-## 🔷 Notes:
+## 🔷 Notes
 
 In the process of rebranding due to existing uses of the acronym GenFT. Converting to **GenesisFT**.  
 This theoretical framework is still in development.
 
---------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-🌌 **Genesis Field Theory (GenesisFT)**
+## 🌌 Conceptual Narrative Overview (Non-Technical)
+
+The following section provides an **intuitive, non-technical narrative description** of Genesis Field Theory.  
+It is intended to convey conceptual motivation and interpretive structure, **not** to serve as a scientific derivation or empirical claim.
+
+---
 
 ### What Is Genesis Field Theory?
 
@@ -122,60 +126,56 @@ Genesis Field Theory (GenesisFT) is built on one central idea:
 
 > “The universe always evolves toward the most stable state available.”
 
-But GenesisFT extends this principle beyond ordinary physics:
-
-Before anything existed — before space, matter, or light — the primordial field is hypothesized to have been in a state of perfect harmony:
+GenesisFT extends this principle beyond ordinary physics by proposing that, prior to the emergence of spacetime, matter, or light, the underlying field existed in a state of perfect symmetry:
 
 - no waves  
 - no motion  
 - no time  
 - absolute stability  
 
-Because the primordial field contains an infinite structure, even extraordinarily rare fluctuations are permitted.  
-Eventually, one such fluctuation occurred — an extremely improbable ripple that broke the perfect symmetry.
+Because the field is assumed to possess infinite structure, even extraordinarily rare fluctuations are permitted.  
+Eventually, one such fluctuation occurred — an extremely improbable ripple that broke the symmetry.
 
-This rupture triggered a dramatic release of dynamics (qualitatively similar to the Big Bang).  
-Once broken, the universe could not return to its original state.  
-It began moving toward the next most stable configuration available.
+This rupture triggered a release of dynamics (qualitatively similar to the Big Bang).  
+Once broken, the system could not return to perfect neutrality and instead evolved toward the next most stable configuration available.
 
-Everything that exists today — space, time, dark matter, galaxies — arose as the universe relaxed back toward stability.
+Everything that exists today — space, time, dark matter, galaxies — is interpreted as emerging from this relaxation toward stability.
 
 ---
 
 ### 🌐 Why Stability Matters
 
-Examples of stability appear everywhere in everyday life:
+Stability-driven behavior appears throughout nature:
 
-- A marble rolls to the bottom of a bowl.  
-- A stretched rubber band snaps back.  
-- A bubble naturally forms a perfect sphere.  
+- A marble rolls to the bottom of a bowl  
+- A stretched rubber band snaps back  
+- A bubble forms a sphere  
 
-GenesisFT asserts that the universe behaves the same way, but on a cosmic scale.
+GenesisFT proposes that the universe behaves analogously, but on a cosmic scale.
 
-The original fluctuation created countless waves in the primordial field — some stable, some unstable:
+The initial fluctuation produced many modes in the field:
 
-- **Unstable modes** decayed and vanished  
+- **Unstable modes** decayed  
 - **Stable modes** persisted  
 
-The surviving modes gave rise to:
+The surviving modes are interpreted as giving rise to:
 
 - dark matter  
-- the large-scale structure of galaxies  
+- large-scale structure  
 - spacetime geometry  
-- the physical laws we observe  
+- effective physical laws  
 
 ---
 
 ### 🌩️ The Big Fluctuation → Chaos → Stability
 
-GenesisFT describes the evolution of the universe in three conceptual phases:
+GenesisFT frames cosmic evolution in three conceptual phases:
 
-1. **Perfect Stability** — The primordial field is motionless and symmetric.  
-2. **The Fluctuation** — A rare, spontaneous ripple breaks the perfect symmetry and releases immense energy.  
-3. **The Return Toward Stability** —  
-   - The universe evolves toward new stable patterns.  
-   - Unstable wave modes fade.  
-   - Stable modes survive to become matter, fields, and cosmic structure.
+1. **Perfect Stability** — the symmetric, motionless field  
+2. **The Fluctuation** — a rare symmetry-breaking event  
+3. **Return Toward Stability** —  
+   - unstable modes fade  
+   - stable modes persist  
+   - structure emerges  
 
-In this framework, **dark matter is interpreted as one of the stable modes**.
-
+Within this narrative framework, **dark matter is interpreted as one class of surviving stable modes**.
