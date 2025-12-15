@@ -41,7 +41,11 @@ These items represent **areas of exploration and hypothesis generation**, not es
 
 ## 🔷 Human Contribution
 
+My primary role in this project has been **system design, numerical execution, documentation, and orchestration of AI-assisted formalization**. I am actively learning the underlying **cosmological and astrophysical formalism**, and this repository reflects an **early-stage integration of theory, numerics, and tooling**.
+
 I contributed:
+
+
 
 - all **core ideas**, conceptual structures, and research motivations  
 - the **framework** for GenesisFT’s operator, kernel, and sector decomposition  
