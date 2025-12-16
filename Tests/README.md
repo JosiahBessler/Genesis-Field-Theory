@@ -1,52 +1,63 @@
 ⚠️ Disclaimer — Preliminary, Unverified Test Results
---------------------------------------------------------------------------------------------------------------------------------------------
-The documents in this Tests directory contain summaries and explanations that were generated with the assistance of large-language-model AI tools.
-These summaries describe the testing procedures, interpret numerical results, and explain the logic behind each evaluation.
+----------------------------------------------------------------------------------------------------
 
-However:
+This directory contains test results, numerical experiments, and diagnostic analyses
+applied to the fixed GenesisFT / UCP model.
+All numerical tests themselves were executed directly by the author using the
+published code and data products in this repository. The model was treated as fixed
+during testing; no test results were used to modify, tune, or redefine the theory
+or its numerical template.
 
-🔸 All tests themselves were performed by a single independent, non-expert researcher.
+Some summaries and explanatory text in this folder were generated with the assistance
+of large-language-model AI tools to improve clarity and readability. AI assistance
+was not used to generate numerical results or to alter raw outputs.
 
-There has been no external review, no astrophysics validation, and no replication by the scientific community.
+----------------------------------------------------------------------------------------------------
 
-🔸 Nothing in this folder should be considered confirmed, factual, or scientifically reliable.
+IMPORTANT LIMITATIONS
 
---------------------------------------------------------------------------------------------------------------------------------------------
+• All tests were conducted by a single independent researcher.
 
-The test results, comparisons, BIC/χ² rankings, and model performance analyses are experimental only and may contain:
+• There has been no external peer review or independent replication.
 
-coding errors
+• No astrophysical validation beyond internal consistency checks has been performed.
 
-misinterpretations
+As a result, the interpretations, comparisons, rankings (e.g. BIC/χ²), and qualitative
+conclusions presented here should be regarded as preliminary and exploratory.
 
-mistakes in methodology
+----------------------------------------------------------------------------------------------------
 
-incorrect assumptions
+WHAT THESE FILES ARE — AND ARE NOT
 
-numerical artifacts
+✔ These files document:
+  - the methodology used to test the fixed model
+  - the numerical outputs of those tests
+  - diagnostic and consistency analyses
+  - exploratory interpretation of results
 
-AI-generated explanation errors
+✖ These files do NOT:
+  - establish empirical confirmation of GenesisFT
+  - constitute validated evidence for or against dark matter
+  - represent consensus scientific conclusions
 
---------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-🔸 These results must NOT be treated as evidence for or against any physical theory.
+PURPOSE OF THIS FOLDER
 
-They are intended solely for transparency, so others can:
+The contents of this directory are provided for transparency, so that others may:
 
-review the methodology
+• review the testing methodology
 
-identify errors
+• inspect the numerical outputs
 
-correct mistakes
+• identify possible errors or limitations
 
-attempt independent reproduction
+• attempt independent reproduction
 
-evaluate whether the approach is meaningful
+• evaluate whether the approach is meaningful
 
---------------------------------------------------------------------------------------------------------------------------------------------
+Until multiple independent experts reproduce and validate these tests, none of the
+results here should be cited as established scientific fact.
 
-🔸 Until multiple independent experts reproduce and validate the tests, none of the findings should be cited as scientific fact.
-
-If you use or review these files, please approach them as early-stage exploratory work, not as verified cosmological results.
-
-For questions, clarifications, or feedback, see the main project README.
+For background, model definitions, and theoretical context, see the main project
+README and the documents in the repository root.
