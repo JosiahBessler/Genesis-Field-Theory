@@ -56,6 +56,8 @@ The contents of this directory are provided for transparency, so that others may
 
 • evaluate whether the approach is meaningful
 
+• offfer transparency
+
 Until multiple independent experts reproduce and validate these tests, none of the
 results here should be cited as established scientific fact.
 
