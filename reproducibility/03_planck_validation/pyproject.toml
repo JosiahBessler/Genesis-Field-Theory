@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genftcamb"
+version = "0.1.0"
+description = "GenesisFT CAMB Pipeline: build primordial power spectra and run CAMB"
+readme = "README.md"
+authors = [{name = "GenesisFT Team"}]
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "camb",
+]
+
+[project.scripts]
+make-genft-dummy = "make_dummy_input:main"
+genftcamb = "genftcamb.pipeline:main"
+
+[tool.setuptools]
+packages = ["genftcamb"]

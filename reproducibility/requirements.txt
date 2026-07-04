@@ -1,0 +1,8 @@
+# Versions used for the reference results (Python 3.11.9, Windows 11).
+# Exact-hash reproduction of the halo CSV was verified with these versions;
+# other platforms/versions should agree to high numerical precision.
+numpy==1.26.4
+scipy==1.13.0
+pandas==2.2.3
+matplotlib==3.9.2
+camb==1.6.5

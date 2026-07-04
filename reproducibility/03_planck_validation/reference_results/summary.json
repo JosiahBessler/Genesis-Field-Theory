@@ -1,0 +1,22 @@
+{
+  "planck_file": "COM_PowerSpect_CMB-TT-binned_R3.01.txt",
+  "nbins": 66,
+  "ell_min": 30,
+  "ell_max": 2000,
+  "kappa": 0.00118,
+  "As": 2.1e-09,
+  "ns": 0.965,
+  "k0": 0.05,
+  "lmax": 2600,
+  "mu_ref": "median",
+  "cosmology": {
+    "H0": 67.4,
+    "ombh2": 0.0224,
+    "omch2": 0.12,
+    "tau": 0.054
+  },
+  "lensed": true,
+  "chi2_lcdm": 64.02072273869881,
+  "camb_version": "1.6.5",
+  "note": "diagonal chi2, symmetrized errors, no covariance/foregrounds"
+}

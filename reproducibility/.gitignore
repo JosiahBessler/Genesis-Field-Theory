@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.egg-info/
+03_planck_validation/outputs/
+03_planck_validation/data/*.npz
+01_halo_comparison/plots_dm_baryons/
+01_halo_comparison/halo_dm_baryons_results.csv
+01_halo_comparison/halo_fit_results.csv

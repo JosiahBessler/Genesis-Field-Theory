@@ -11,12 +11,38 @@ The *mathematical exposition*, *formal derivations*, and *scientific writing* we
 
 The complete theoretical derivation and validation of the **Universal Cored Profile (UCP)** — including the stability equation, construction of the UCP template, rotation-curve methodology, and SPARC multi-model comparison — is available here:
 
-👉 **[UCP Theory Paper (PDF)](UCP/UCP_Theory_Paper.pdf)**
+👉 **[UCP Theory Paper (PDF)](UCP/UCP_Theory_Paper.pdf)** · **[Revised v2 (July 2026)](UCP/UCP_Theory_Paper_v2.docx)**
 
 [![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17904509.svg)](https://doi.org/10.5281/zenodo.17904509)  
 [![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17914774.svg)](https://doi.org/10.5281/zenodo.17914774)
 
 This document is the **primary scientific reference** for the UCP portion of this repository and is intended for **transparency, reproducibility, and open review**.
+
+> **v2 revision note (July 2026):** the v2 paper corrects the characterization of UCP relative to the GenesisFT operator eigenmodes (the verified lensing-consistent MID-band eigenmode differs from the UCP template by relative L2 ≈ 0.72), reports the fit statistics precisely (UCP is the most frequent best-fit model on SPARC — 62/175 galaxies — while Burkert attains a slightly better median χ²/dof, 0.472 vs 0.521), and fixes reference details. The v1 PDF is retained for the DOI record.
+
+---
+
+## 🔬 Reproducibility Package & Validation Status (July 2026)
+
+The [`reproducibility/`](reproducibility/) folder contains code, data, reference outputs, and
+step-by-step instructions to independently reproduce the program's main computational
+results — including a **negative result published deliberately**:
+
+| Test | Result | Reproduction status |
+|---|---|---|
+| [SPARC halo comparison](reproducibility/01_halo_comparison/) (175 galaxies, 5 models) | UCP most frequent best-fit (62/175); competitive, not universally best | Re-run 2026-07-04: output CSV **byte-identical** to archive (SHA-256 verified) |
+| [Eigenmode verification](reproducibility/02_eigenmode_verification/) | Verified MID-band eigenmode differs from UCP (rel. L2 = 0.7197) | Automated check script reproduces all values |
+| [Planck 2018 TT validation](reproducibility/03_planck_validation/) | **Falsification:** every configuration where the operator spectrum influences P(k) is excluded (min Δχ² = +15,189 / 66 bins); the Planck-consistent c = 0 limit is exactly ΛCDM by construction; coupling bound c ≲ 0.047 | Deterministic pipeline; inputs regenerate bit-identically |
+
+Full analysis: [Planck validation report](reproducibility/docs/GenesisFT_ModelA_Planck2018_TT_Validation_Report.docx).
+See [`reproducibility/README.md`](reproducibility/README.md) for setup and exact commands.
+
+**What this means:** the CMB temperature spectrum now acts as a *constraint* on GenesisFT
+rather than a validation of it — any distinctive spectral signature must lie below ≈0.6%
+in the primordial spectrum. The framework's empirically competitive results remain at
+galaxy scale (rotation curves, halo eigenmode structure). An earlier GenFT-vs-MOND
+comparison was retracted on methodological grounds the day it was run and its numbers
+should not be cited.
 
 ---
 
